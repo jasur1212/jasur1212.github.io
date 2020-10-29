@@ -139,6 +139,46 @@ small{
 	background-color: lighten (#fcb303,100%);
 }
 
+section{
+	padding-top: 10rem 0;
+}
+.section-header{
+	margin: 2rem 0 10rem;
+	font-family: bold;
+	font-size: 3.6rem;
+	text-align: center;
+	}
+.features{
+	text-align: center;
+}	
+.features-block{
+	text-align: center;
+}
+h3{
+		font-family: serif;
+		font-size: 2rem;
+		margin-bottom: 3rem;
+	}
+p{
+	display: inline-block;
+	width: 80%;
+	font-family: Tahoma sans-serif
+	font-size: 1.4rem;
+}
+.features-img {
+	height: 8rem;
+	margin-bottom: 3rem;
+}
+img{
+	widows: 68px;
+	height: 56px;
+	display:block;
+	margin: 0 auto;
+		
+	}
+.slick-active{
+	outline: none;
+}
 @media (max-width: 991px) {
 	.phone-block{
 		text-align: center;
